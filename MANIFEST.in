@@ -43,4 +43,5 @@ exclude src/ocrmypdf/lib/_leptonica.py
 exclude scratch.py
 
 # dev bash completion
-include misc/ocrmypdf
+recursive-include misc *
+#include misc/ocrmypdf
