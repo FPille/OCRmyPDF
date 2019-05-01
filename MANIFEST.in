@@ -41,3 +41,6 @@ exclude .travis*
 # code
 exclude src/ocrmypdf/lib/_leptonica.py
 exclude scratch.py
+
+# dev bash completion
+include misc/ocrmypdf
